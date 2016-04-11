@@ -48,7 +48,7 @@ The **BuyPotion()** method is the method that is used to take one potion off of 
 
 #### Other requirements
 
-The [**main.cpp**](https://github.com/dotman14/Data-Structure-Summer-15/blob/master/shelf-life/main.cpp) and [**main.cpp**](https://github.com/dotman14/Data-Structure-Summer-15/blob/master/shelf-life/main.h) files are attached to this assignment. You must use this exact [**main.cpp**](https://github.com/dotman14/Data-Structure-Summer-15/blob/master/shelf-life/main.cpp) file without any modifications for your program. In order for this to work correctly you will need to make sure to use correct file name [**"Apothecary.h"**](https://github.com/dotman14/Data-Structure-Summer-15/blob/master/shelf-life/Apothecary.cpp). You will also need to make sure to name your classes and methods as described above.
+The [**main.cpp**](https://github.com/dotman14/Data-Structure-Summer-15/blob/master/shelf-life/main.cpp) and [**main.h**](https://github.com/dotman14/Data-Structure-Summer-15/blob/master/shelf-life/main.h) files are attached to this assignment. You must use this exact [**main.cpp**](https://github.com/dotman14/Data-Structure-Summer-15/blob/master/shelf-life/main.cpp) file without any modifications for your program. In order for this to work correctly you will need to make sure to use correct file name [**"Apothecary.h"**](https://github.com/dotman14/Data-Structure-Summer-15/blob/master/shelf-life/Apothecary.cpp). You will also need to make sure to name your classes and methods as described above.
 
 You need to implement your own stack and queue classes. ~~You cannot use the STL queue and stack or any other pre-made stack or queue code~~.
 
