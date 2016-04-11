@@ -1,6 +1,6 @@
 # Data-Structure-Summer-15
 
-## CS260 Lab: Shelf Life
+## Shelf Life
 
 ### Instructions
 
