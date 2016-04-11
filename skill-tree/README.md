@@ -1,4 +1,4 @@
-## CS260 Lab: Skill Tree
+## Skill Tree
 
 ### Instructions
 
