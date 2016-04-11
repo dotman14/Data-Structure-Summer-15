@@ -52,4 +52,4 @@ The **main.cpp** and **main.h** files are attached to this assignment. You must 
 
 You need to implement your own stack and queue classes. ~~You cannot use the STL queue and stack or any other pre-made stack or queue code~~.
 
-When you run your program using this main function your program should generate the output shown in the attached **output.txt** file. You need to match the text exactly (including spaces and newlines).
+When you run your program using this main function your program should generate the output shown in the attached [**output.txt**](https://github.com/dotman14/Data-Structure-Summer-15/blob/master/shelf-life/output.txt) file. You need to match the text exactly (including spaces and newlines).
